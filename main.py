@@ -3,7 +3,7 @@
 
 import cv2 as cv
 import pytesseract
-import  
+import pyttsx3  
 from PIL import ImageGrab
 import numpy as np
 import time
